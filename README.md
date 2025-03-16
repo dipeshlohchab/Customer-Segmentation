@@ -1,5 +1,3 @@
-![alt text](https://ineuron.ai/images/ineuron-logo.png)
-
 # Customer Personality Segmentation
 
 ## Problem statement
@@ -9,12 +7,6 @@ In this data science project, you will build a machine learning system which wil
 ## Solution Proposed
 
 Now the question is how to dynamically predict the cluster of the customer ?. One of the approaches which we can use of machine learning approach, where we can cluster the customer based on the details we have and predict the cluster type based on the domain knowledge and leverage previous customer data to predict the cluster.
-
-Dataset used
- <html>
-<a href="https://github.com/entbappy/Branching-tutorial/blob/master/marketing_campaign.zip"> Dataset Link</a>
-</html>
-
 
 
 ## Tech Stack Used
@@ -39,7 +31,7 @@ Step 1. Cloning the repository.
 
 ```
 
-git clone https://github.com/Machine-Learning-01/Customer_segmentation.git
+git clone https://github.com/dipeshlohchab/Customer-Segmentation.git
 
 ```
 
@@ -47,7 +39,7 @@ Step 2. Create a conda environment.
 
 ```
 
-conda create --prefix venv python=3.7 -y
+conda create --prefix venv python=3.12 -y
 
 ```
 
